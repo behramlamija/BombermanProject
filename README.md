@@ -28,7 +28,7 @@ This project was created as a seminar work and demonstrates game development ski
 - C# scripting  
 - 3D models in .fbx format  
 
-## 📸 Screenshot (optional)
+## 📸 Screenshot 
 
 ![Game Screenshot](Images/B3D.png)
 
