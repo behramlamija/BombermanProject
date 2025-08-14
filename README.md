@@ -15,7 +15,7 @@ This project was created as a seminar work and demonstrates game development ski
 1. Open the project in Unity Editor (recommended Unity version 2020.3 or newer).  
 2. Open the scene `Assets/Scenes/Level1`.  
 3. Press **Play** in the Unity Editor to start the game.  
-4. Use keyboard and mouse to control the player character (add control details here if needed).
+4. Use keyboard and mouse to control the player character.
 
 ## 📋 Key Features
 - Bomb placement and explosion mechanics  
